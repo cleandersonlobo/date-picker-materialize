@@ -1,6 +1,6 @@
 Package.describe({
   name: 'cleandersonlobo:date-picker-materialize',
-  version: '0.1.3',
+  version: '0.1.4',
   // Brief, one-line summary of the package.
   summary: 'Test version only the Datepicker the Materialize package.',
   // URL to the Git repository containing the source code for this package.

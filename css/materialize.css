@@ -26,7 +26,7 @@
   font-weight: 700;
 }
 
-/******/
+/**/
 
   .btn-flat {
   box-shadow: none;
@@ -41,7 +41,7 @@
   height: 36px;
   line-height: 36px;
   outline: 0;
-  padding: 0 2rem;
+  padding: 0 1rem;
   text-transform: uppercase;
   vertical-align: middle;
   -webkit-tap-highlight-color: transparent;
@@ -52,7 +52,12 @@
     border-radius: 2px;
     color: inherit;
     font: inherit;
-    margin: 0;
+    text-align: center;
+}
+
+/* Remove Focus Boxes */
+.picker select:focus {
+  outline: 1px solid #c9f3ef;
 }
 /* ==========================================================================
    $BASE-PICKER
@@ -64,7 +69,7 @@
   font-family: "Roboto", sans-serif;
   font-size: 16px;
   text-align: left;
-  line-height: 1.0;
+  line-height: 1.2;
   color: #000000;
   position: absolute;
   z-index: 10000;
