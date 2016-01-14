@@ -1,4 +1,11 @@
+Meteor date-picker-materialize
+============
+
+[https://atmospherejs.com/cleandersonlobo/date-picker-materialize](https://atmospherejs.com/cleandersonlobo/date-picker-materialize)
+
+
 pickadate
+============
 
 Meteor packaging of amsul/pickadate.js support
 
@@ -11,13 +18,16 @@ DatePicker Style
 All rights to Materialize are with the original author
 
 Example
-
+============
 In your handlebars template:
 
-<input type="text" class="form-control datepicker">
+    <input type="text" class="form-control datepicker">
+
 In client-side JS code:
 
-Template.mytemplate.rendered=function() {
-    $('.datepicker').pickadate();
-}
-See http://amsul.ca/pickadate.js/index.htm for more
+    Template.mytemplate.rendered=function() {
+    	$('.datepicker').pickadate();
+    }
+
+
+See [http://amsul.ca/pickadate.js/index.htm](http://amsul.ca/pickadate.js/index.htm) for more
