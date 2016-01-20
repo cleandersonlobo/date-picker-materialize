@@ -1,11 +1,11 @@
 Meteor date-picker-materialize
 ============
 
-<<<<<<< HEAD
+
 [https://atmospherejs.com/cleandersonlobo/date-picker-materialize](https://atmospherejs.com/cleandersonlobo/date-picker-materialize)
 =======
 https://atmospherejs.com/cleandersonlobo/date-picker-materialize
->>>>>>> 59bda763afa9b7cc2c4c9f311f68778e152d7e03
+
 
 
 pickadate
@@ -33,9 +33,8 @@ In client-side JS code:
     	$('.datepicker').pickadate();
     }
 
-<<<<<<< HEAD
 
-See [http://amsul.ca/pickadate.js/index.htm](http://amsul.ca/pickadate.js/index.htm) for more
+
+
 =======
 See http://amsul.ca/pickadate.js/index.htm for more
->>>>>>> 59bda763afa9b7cc2c4c9f311f68778e152d7e03
